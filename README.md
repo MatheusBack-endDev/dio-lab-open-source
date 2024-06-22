@@ -4,7 +4,6 @@ Atualmente sou um estudante de ADS apaixonado por desenvolvimento BACK-END.
 ##
 ### 📊 Estatísticas no GitHub:
 <a href="https://github.com/MatheusBack-endDev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0rfreitas&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
 </a>
 
 ##
